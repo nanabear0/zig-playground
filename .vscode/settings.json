@@ -1,0 +1,9 @@
+{
+  "[zig]": {
+    "editor.defaultFormatter": "ziglang.vscode-zig"
+  },
+  "editor.rulers": [
+    80,
+    120
+  ],
+}
